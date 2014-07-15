@@ -40,6 +40,9 @@ namespace WindowsFormsApplication1
             bool yesNo = false;
             bool anotherBool = true;
             yesNo = !anotherBool;
+
+            work w = new work();
+            w.puzzle();
         }
     }
 }
