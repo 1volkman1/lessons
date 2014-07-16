@@ -29,7 +29,7 @@ namespace WindowsFormsApplication1
 
                 if (x == 2)
                 {
-                    result = result + "b.c";
+                    result = result + "b c";
                 }
 
                 x = x - 1;
@@ -42,6 +42,42 @@ namespace WindowsFormsApplication1
                 }
                 MessageBox.Show(result);
             }
+        }
+
+        public void puzzleinpool()
+        {
+            int x = 0;
+            string Poem = "";
+
+            while ( x < 1)
+            {
+                Poem = Poem + "a ";
+                if (x < 1)
+                {
+                    Poem = Poem + "noise ";
+                }
+
+                x = x + 2;
+
+                if (x > 0)
+                {
+                    Poem = Poem + "annoys ";
+                    x = x - 1;
+                }
+
+                if (x == 1)
+                {
+                    Poem = Poem + "an";
+                }
+
+                if (x < 4)
+                {
+                    Poem = Poem + "oyster";
+                }
+                x = x + 1;
+            }
+            MessageBox.Show(Poem);
+
         }
     }
 }

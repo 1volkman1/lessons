@@ -43,6 +43,7 @@ namespace WindowsFormsApplication1
 
             work w = new work();
             w.puzzle();
+            w.puzzleinpool();
         }
     }
 }
