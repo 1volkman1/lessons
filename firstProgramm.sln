@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashyThing", "FlashyThing\FlashyThing.csproj", "{BA7DFA4A-377D-49BB-9E60-0ACF2227E1AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joe and Bob", "Joe and Bob\Joe and Bob.csproj", "{7E40723C-57C4-45FB-9FC1-A4E5E638D6BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{BA7DFA4A-377D-49BB-9E60-0ACF2227E1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA7DFA4A-377D-49BB-9E60-0ACF2227E1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA7DFA4A-377D-49BB-9E60-0ACF2227E1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E40723C-57C4-45FB-9FC1-A4E5E638D6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E40723C-57C4-45FB-9FC1-A4E5E638D6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E40723C-57C4-45FB-9FC1-A4E5E638D6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E40723C-57C4-45FB-9FC1-A4E5E638D6BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
