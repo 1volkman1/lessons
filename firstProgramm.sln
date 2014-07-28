@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joe and Bob", "Joe and Bob\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meliage Calculator", "Meliage Calculator\Meliage Calculator.csproj", "{B79F5FC4-548A-4504-81FE-A748968E84D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuMaker", "MenuMaker\MenuMaker.csproj", "{59ACFB44-BA43-4C0F-A078-299701AF216A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{B79F5FC4-548A-4504-81FE-A748968E84D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B79F5FC4-548A-4504-81FE-A748968E84D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B79F5FC4-548A-4504-81FE-A748968E84D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59ACFB44-BA43-4C0F-A078-299701AF216A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59ACFB44-BA43-4C0F-A078-299701AF216A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59ACFB44-BA43-4C0F-A078-299701AF216A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59ACFB44-BA43-4C0F-A078-299701AF216A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
