@@ -8,5 +8,8 @@ namespace Beehive_Management_System
 {
     interface INectarCollector
     {
+        void FindFlowers();
+        void GatherNectar();
+        int ReturnToHive();
     }
 }

@@ -8,5 +8,9 @@ namespace Beehive_Management_System
 {
     interface IStingPatrol
     {
+        int AlertLevel { get; }
+        int StringerLength { get; set; }
+        bool LookForEnemies();
+        int SharpenStinger(int length);
     }
 }
